@@ -1,2 +1,4 @@
 # hello-world
-Just Another Repository
+Hi People!
+I am a crazy cat lady and want to learn programming!
+
